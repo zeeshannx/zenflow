@@ -1,5 +1,3 @@
-"use client";
-
 import React, { FC, useRef, useEffect, useState } from "react";
 
 export interface LiquidCrystalProps {
