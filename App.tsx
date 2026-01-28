@@ -134,7 +134,7 @@ function App() {
           >
             <div className="text-center space-y-6">
               <h1 className="text-8xl md:text-[10rem] font-thin tracking-tighter text-white/95">
-                ZenFlow
+                Xenflow
               </h1>
               <p className="text-sm text-white/20 font-light tracking-[0.8em] uppercase">
                 Step into the flow
