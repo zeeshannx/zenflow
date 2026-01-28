@@ -1,0 +1,1 @@
+// Deprecated - Controls moved to App.tsx for minimalist integration
